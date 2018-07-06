@@ -1,5 +1,5 @@
 title = "Jorge Martíenz"
-baseURL = "https://jorgeVNA.github.io/blog.github.io/"
+baseURL = "https://jorgevna.github.io/blog/"
 publishDir = "docs"
 languageCode = "en-us"
 theme = "ananke"
