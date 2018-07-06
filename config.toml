@@ -1,0 +1,5 @@
+baseURL = "https://jorgeVNA.github.io/blog.github.io/"
+publishDir = "docs"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "ananke"
